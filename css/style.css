@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Poppins:wght@300;400;500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+}
+
+#recentArticles {
+  background-color: #429cd61a;
+  padding: 130px;
+}
+.section-headings {
+  padding-bottom: 50px;
+}
+.fontTitle {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 64px;
+  color: #233161;
+  font-weight: 600;
+}
+.seeAll {
+  border: none;
+  background: none;
+  color: #233161;
+  text-decoration: underline;
+  font-size: 20px;
+  font-weight: 400;
+}
+.blog-title {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 30px;
+  color: #424040;
+  font-family: "Poppins", sans-serif;
+}
+.blog-description {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 275;
+  font-size: 16px;
+  line-height: 141.5%;
+  color: #424040;
+}
+.blog-tags {
+  background: #b2a18a;
+  border-radius: 20px;
+  padding: 4px 13px;
+  font-weight: 400;
+  font-size: 12px;
+  color: #fff;
+  margin: 5px;
+  display: inline-block;
+}
+.blog-tags:hover {
+  background: #233161;
+}
